@@ -1,0 +1,15 @@
+name=
+ 'mark'
+ 'jimmy'
+type=
+4
+3
+x=
+2.5890
+0.5100
+y=
+20 
+16
+answer=
+'yes'
+'no'
